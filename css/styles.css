@@ -1,8 +1,8 @@
 .profile {
-  border: 5px solid  #660000;
+  border: 5px solid  #693039;
   padding: 20px;
   margin: 50px;
-  background-color:  #ffe6e6;
+  background-color:  #fff3cc;
   width:200px;
   float:left;
 }
@@ -19,10 +19,41 @@
   margin-bottom:10px;
 }
 
-.title {
-  color: #660000;
+.profile h2 {
+  color: #693039;
   font-weight: bold;
   font-size:50px;
   text-align:center;
   font-family:sans-serif;
+}
+
+h2 {
+  color: #693039;
+  font-weight: bold;
+  font-size:80px;
+  text-align: center;
+  font-family:sans-serif;
+  text-shadow: 1px 1px 30px #FFE591;
+}
+
+h2:hover{
+  color: #693039;
+  font-weight: bold;
+  font-size:80px;
+  text-align: center;
+  font-family:sans-serif;
+  text-shadow: 1px 1px 30px white;
+}
+
+.profile h2:hover{
+  color: #693039;
+  font-weight: bold;
+  font-size:50px;
+  text-align: center;
+  font-family:sans-serif;
+  text-shadow: 1px 1px 30px white;
+}
+
+body {
+  background-image: url("http://images.all-free-download.com/images/graphiclarge/insects_background_flowers_dragonfly_icon_repeating_colored_sketch_6829530.jpg")
 }
