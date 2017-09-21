@@ -1,0 +1,28 @@
+.profile {
+  border: 5px solid  #660000;
+  padding: 20px;
+  margin: 50px;
+  background-color:  #ffe6e6;
+  width:200px;
+  float:left;
+}
+
+.image img {
+  width:200px;
+}
+
+.image {
+  padding-top:10px;
+  padding-bottom:10px;
+  border-top: 1px solid #660000;
+  border-bottom: 1px solid #660000;
+  margin-bottom:10px;
+}
+
+.title {
+  color: #660000;
+  font-weight: bold;
+  font-size:50px;
+  text-align:center;
+  font-family:sans-serif;
+}
